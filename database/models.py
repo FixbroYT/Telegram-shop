@@ -8,6 +8,7 @@ from config import DB_URL
 
 logger = logging.getLogger(__name__)
 
+print(DB_URL)
 engine = create_async_engine(DB_URL)
 async_session = async_sessionmaker(engine, expire_on_commit=False)
 
