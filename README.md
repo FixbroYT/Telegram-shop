@@ -1,4 +1,4 @@
-# Telgram shop backend
+# Telegram shop backend
 
 Backend of a Telegram store with a database based on **Postgres** in Python using **FastAPI**
 
