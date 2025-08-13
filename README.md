@@ -37,6 +37,12 @@ Backend of a Telegram store with a database based on **Postgres** in Python usin
 
 ---
 
+## ⚠ Additional info
+
+Please note that this is only the store's backend; the frontend is available at this link: [Telegram-shop-front](https://github.com/FixbroYT/Telegram-shop-front)
+
+---
+
 ## 🛠 Tech Stack
 
 * Python + FastAPI
