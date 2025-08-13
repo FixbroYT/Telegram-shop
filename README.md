@@ -6,11 +6,12 @@ Backend of a Telegram store with a database based on **Postgres** in Python usin
 
 ## ⚙️ Features
 
-- Ability to add and delete products in the database using commands in the bot.
-- Added payment via **Stripe**
-- Easy setup and launch
+- 🧩Ability to add and delete products in the database using commands in the bot.
+- 💳Added payment via **Stripe**
+- 🛠Easy setup and launch
 
 ---
+
 ## 🔧 Installation
 
 1. Clone the repository:
@@ -35,6 +36,7 @@ Backend of a Telegram store with a database based on **Postgres** in Python usin
    ```
 
 ---
+
 ## 🛠 Tech Stack
 
 * Python + FastAPI
@@ -42,3 +44,9 @@ Backend of a Telegram store with a database based on **Postgres** in Python usin
 * PostgreSQL
 * Stripe
 * Logging system
+
+---
+
+## 📄 License
+
+MIT License — free to use and modify.
